@@ -1,0 +1,5 @@
+/root/Projects/newBroker/newBroker/bin/Debug/newBroker.exe
+/root/Projects/newBroker/newBroker/bin/Debug/newBroker.pdb
+/root/Projects/newBroker/newBroker/obj/x86/Debug/newBroker.csprojAssemblyReference.cache
+/root/Projects/newBroker/newBroker/obj/x86/Debug/newBroker.exe
+/root/Projects/newBroker/newBroker/obj/x86/Debug/newBroker.pdb
